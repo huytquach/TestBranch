@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/huytquach/TestBranch#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-angular-component": "^0.1.0"
   }
 }
